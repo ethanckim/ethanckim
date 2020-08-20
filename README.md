@@ -9,7 +9,7 @@ My name is <b>Ethan Calvin Kim</b>. Feel free to explore my repositories!
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
  - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a>
- - 🤖 Programmed a robot so it does something like this ->
+ - 🤖 Programmed a robot so it does something like this 👉👉
  - 🐢 I like turtles
 
 ### 💬 Languages I use
