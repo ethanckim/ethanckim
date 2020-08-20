@@ -1,7 +1,7 @@
 ## You found my GitHub Profile! 👀
 
 <p align="center">
- <img align="center" width="520px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
+ <img align="center" width="420px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
 </p>
 
 My name is <b>Ethan Calvin Kim</b>. Explore my pinned repositories under this README!
