@@ -1,9 +1,15 @@
 ## Hello there 👋
 
+<p align="center">
+ <img align="center" width="460px" src="./media/turtle.JPG" />
+</p>
+
 You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>, and feel free to look around my repositories!
 
- - 🎓 Currently Studying Mechatronics Enginneering (Class of 2025) at the University of Waterloo
- - 🤖 Programmed a robot so it does something like this:
+<img align="right" alt="GIF" src="./media/robot.gif" />
+
+ - 🎓 Currently Studying Mechatronics Enginneering at the University of Waterloo (Class of 2025)
+ - 🤖 Programmed a robot so it does something like this ->
  - 🐢 I like turtles
 
 ### 💬 Languages I use
@@ -23,12 +29,28 @@ You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>, and feel free t
     Build Tools: Ant, Gradle
  
 
-### 📫 Connect with me!
+### 📫 Find me online!
 
-<a href=https://www.linkedin.com/in/ethan-calvin-kim/><img align="left" alt="Ethan's LinkedIn" width=22px src=https://simpleicons.org/icons/linkedin.svg>
-<a href=https://github.com/ethanckim><img align="left" alt="Ethan's Github" width=22px src=https://simpleicons.org/icons/github.svg>
-<a href=eckim.hms@gmail.com><img align="left" alt="Ethan's Gmail" width=22px src=https://simpleicons.org/icons/gmail.svg>
+<a href=https://www.linkedin.com/in/ethan-calvin-kim/>
+ <img align="left" alt="Ethan's LinkedIn" width=22px src=https://simpleicons.org/icons/linkedin.svg>
+</a>
 
-<a href=https://www.facebook.com/ethanc.kim><img align="left" alt="Ethan's Facebook" width=22px src=https://simpleicons.org/icons/facebook.svg>
-<a href=https://twitter.com/ethanc_kim><img align="left" alt="Ethan's Twitter" width=22px src=https://simpleicons.org/icons/twitter.svg>
-<a href=https://www.instagram.com/ethanc_kim/><img align="left" alt="Ethan's Instagram" width=22px src=https://simpleicons.org/icons/instagram.svg>
+<a href=https://github.com/ethanckim>
+ <img align="left" alt="Ethan's Github" width=22px src=https://simpleicons.org/icons/github.svg>
+</a>
+
+<a href=eckim.hms@gmail.com>
+ <img align="left" alt="Ethan's Gmail" width=22px src=https://simpleicons.org/icons/gmail.svg>
+</a>
+
+<a href=https://www.facebook.com/ethanc.kim>
+ <img align="left" alt="Ethan's Facebook" width=22px src=https://simpleicons.org/icons/facebook.svg>
+</a>
+
+<a href=https://twitter.com/ethanc_kim>
+ <img align="left" alt="Ethan's Twitter" width=22px src=https://simpleicons.org/icons/twitter.svg>
+</a>
+
+<a href=https://www.instagram.com/ethanc_kim/>
+<img align="left" alt="Ethan's Instagram" width=22px src=https://simpleicons.org/icons/instagram.svg>
+</a>
