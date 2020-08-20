@@ -38,10 +38,6 @@ My name is <b>Ethan Calvin Kim</b>. Explore my pinned repositories under this RE
   <img align="left" alt="Ethan's Github" width=22px src=https://simpleicons.org/icons/github.svg>
  </a>
 
- <a href=eckim.hms@gmail.com>
-  <img align="left" alt="Ethan's Gmail" width=22px src=https://simpleicons.org/icons/gmail.svg>
- </a>
-
  <a href=https://www.facebook.com/ethanc.kim>
   <img align="left" alt="Ethan's Facebook" width=22px src=https://simpleicons.org/icons/facebook.svg>
  </a>
