@@ -1,10 +1,10 @@
 ## Hello there 👋
 
 <p align="center">
- <img align="center" width="460px" src="./media/turtle.JPG" />
+ <img align="center" width="520px" src="./media/turtle.png" />
 </p>
 
-You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>, and feel free to look around my repositories!
+You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>. Feel free to explore my repositories!
 
 <img align="right" alt="GIF" src="./media/robot.gif" />
 
@@ -28,6 +28,11 @@ You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>, and feel free t
     Version Control: Git, SVN
     Build Tools: Ant, Gradle
  
+### 💬 Organizations Related
+
+Semiahmoo Robotics: https://github.com/Semiahmoo-Robotics
+
+Philadelphia Church of Vancouver: https://github.com/PCOV-Application
 
 ### 📫 Find me online!
 
@@ -54,3 +59,7 @@ You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>, and feel free t
 <a href=https://www.instagram.com/ethanc_kim/>
 <img align="left" alt="Ethan's Instagram" width=22px src=https://simpleicons.org/icons/instagram.svg>
 </a>
+<br/>
+<br/>
+
+[![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanckim&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
