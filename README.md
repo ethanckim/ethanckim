@@ -1,32 +1,35 @@
-## Hello there 👋
+## You found my GitHub Profile! 👀
 
 <p align="center">
  <img align="center" width="520px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
 </p>
 
-You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>. Feel free to explore my repositories!
+My name is <b>Ethan Calvin Kim</b>. Feel free to explore my repositories!
 
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
- - 🎓 Currently Studying Mechatronics Enginneering at the University of Waterloo (Class of 2025)
+ - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a> (Class of 2025)
  - 🤖 Programmed a robot so it does something like this ->
  - 🐢 I like turtles
 
 ### 💬 Languages I use
 
- - I can read and write with the following:
-    Java, HTML/CSS, Visual Basic .NET 
+ - 📝 I can read and write with the following:
+    **Java, HTML/CSS, Visual Basic .NET**
 
- - I am learning the following:
-    C++
+ - 💭 I am learning the following:
+    **C++**
     
- - I "kinda" know the following:
-    JavaScript, Python, XML, JSON
+ - 🤔 I "kinda" know these languages (can read):
+    **JavaScript, Python, XML, JSON**
     
- - Here are some tools that I use:
-    Dev Tools: Visual Studio, VS Code, Android Studio, Eclipse, IntelliJ
-    Version Control: Git, SVN
-    Build Tools: Ant, Gradle
+ - 🔨 Here are some tools that I use:
+    <br>
+    Dev Tools: **Visual Studio, VS Code, Android Studio, Eclipse, IntelliJ**
+    <br>
+    Version Control: **Git, SVN**
+    <br>
+    Build Tools: **Ant, Gradle**
  
 ### 📫 Find me online!
 
