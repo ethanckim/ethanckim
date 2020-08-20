@@ -24,8 +24,8 @@ You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>, and feel free t
  
 
 ### 📫 Connect with me!
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href=https://www.linkedin.com/in/ethan-calvin-kim/><img align="left" alt="Ethan's Facebook" width=22px src=https://simpleicons.org/icons/linkedin.svg>
+
+<a href=https://www.linkedin.com/in/ethan-calvin-kim/><img align="left" alt="Ethan's LinkedIn" width=22px src=https://simpleicons.org/icons/linkedin.svg>
 <a href=https://github.com/ethanckim><img align="left" alt="Ethan's Github" width=22px src=https://simpleicons.org/icons/github.svg>
 <a href=eckim.hms@gmail.com><img align="left" alt="Ethan's Gmail" width=22px src=https://simpleicons.org/icons/gmail.svg>
 
