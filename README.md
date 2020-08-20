@@ -6,18 +6,29 @@ You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>, and feel free t
  - 🤖 Programmed a robot so it does something like this:
  - 🐢 I like turtles
 
+### 💬 Languages I use
 
-<!--
-**ethanckim/ethanckim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - I can read and write with the following:
+    Java, HTML/CSS, Visual Basic .NET 
 
-Here are some ideas to get you started:
+ - I am learning the following:
+    C++
+    
+ - I "kinda" know the following:
+    JavaScript, Python, XML, JSON
+    
+ - Here are some tools that I use:
+    Dev Tools: Visual Studio, VS Code, Android Studio, Eclipse, IntelliJ
+    Version Control: Git, SVN
+    Build Tools: Ant, Gradle
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me!
+
+https://www.linkedin.com/in/ethan-calvin-kim/
+https://www.facebook.com/ethanc.kim
+https://twitter.com/ethanc_kim
+https://github.com/ethanckim
+https://www.instagram.com/ethanc_kim/
+ethanc.kim@uwaterloo.ca
+eckim.hms@gmail.com
