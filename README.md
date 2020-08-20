@@ -1,12 +1,12 @@
 ## Hello there 👋
 
 <p align="center">
- <img align="center" width="520px" src="./media/turtle.png" />
+ <img align="center" width="520px" src="/ethanckim/media/turtle.png" />
 </p>
 
 You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>. Feel free to explore my repositories!
 
-<img align="right" alt="GIF" src="./media/robot.gif" />
+<img align="right" alt="GIF" src="/ethanckim/media/robot.gif" />
 
  - 🎓 Currently Studying Mechatronics Enginneering at the University of Waterloo (Class of 2025)
  - 🤖 Programmed a robot so it does something like this ->
