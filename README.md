@@ -25,10 +25,10 @@ You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>, and feel free t
 
 ### 📫 Connect with me!
 
-<a href=https://www.linkedin.com/in/ethan-calvin-kim/><img align="left" alt="Ethan's Facebook" width=32px src=https://simpleicons.org/icons/linkedin.svg>
-<a href=https://github.com/ethanckim><img align="left" alt="Ethan's Github" width=32px src=https://simpleicons.org/icons/github.svg>
-<a href=eckim.hms@gmail.com><img align="left" alt="Ethan's Gmail" width=32px src=https://simpleicons.org/icons/gmail.svg>
+<a href=https://www.linkedin.com/in/ethan-calvin-kim/><img align="left" alt="Ethan's Facebook" width=22px src=https://simpleicons.org/icons/linkedin.svg>
+<a href=https://github.com/ethanckim><img align="left" alt="Ethan's Github" width=22px src=https://simpleicons.org/icons/github.svg>
+<a href=eckim.hms@gmail.com><img align="left" alt="Ethan's Gmail" width=22px src=https://simpleicons.org/icons/gmail.svg>
 
-<a href=https://www.facebook.com/ethanc.kim><img align="left" alt="Ethan's Facebook" width=32px src=https://simpleicons.org/icons/facebook.svg>
-<a href=https://twitter.com/ethanc_kim><img align="left" alt="Ethan's Twitter" width=32px src=https://simpleicons.org/icons/twitter.svg>
-<a href=https://www.instagram.com/ethanc_kim/><img align="left" alt="Ethan's Instagram" width=32px src=https://simpleicons.org/icons/instagram.svg>
+<a href=https://www.facebook.com/ethanc.kim><img align="left" alt="Ethan's Facebook" width=22px src=https://simpleicons.org/icons/facebook.svg>
+<a href=https://twitter.com/ethanc_kim><img align="left" alt="Ethan's Twitter" width=22px src=https://simpleicons.org/icons/twitter.svg>
+<a href=https://www.instagram.com/ethanc_kim/><img align="left" alt="Ethan's Instagram" width=22px src=https://simpleicons.org/icons/instagram.svg>
