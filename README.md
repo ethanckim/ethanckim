@@ -28,12 +28,6 @@ You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>. Feel free to ex
     Version Control: Git, SVN
     Build Tools: Ant, Gradle
  
-### 💬 Organizations Related
-
-Semiahmoo Robotics: https://github.com/Semiahmoo-Robotics
-
-Philadelphia Church of Vancouver: https://github.com/PCOV-Application
-
 ### 📫 Find me online!
 
 <a href=https://www.linkedin.com/in/ethan-calvin-kim/>
