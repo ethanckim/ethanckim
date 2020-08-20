@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hello there 👋
+
+You found my GitHub Profile! My name is <b>Ethan Calvin Kim</b>, and feel free to look around my repositories!
+
+ - 🎓 Currently Studying Mechatronics Enginneering (Class of 2025) at the University of Waterloo
+ - 🤖 Programmed a robot so it does something like this:
+ - 🐢 I like turtles
+
 
 <!--
 **ethanckim/ethanckim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
