@@ -14,12 +14,12 @@ My name is <b>Ethan Calvin Kim</b>. Explore my pinned repositories under this RE
 
 ### 💬 Languages I use
 
- - 📝 I can read and write with the following:
-    **Java, HTML/CSS, Visual Basic .NET**
+ - 🧡 I love these languages:
+    **Java, C++, HTML/CSS, XML**
  - 💭 I am learning the following:
-    **C++**
+    **Python**
  - 🤔 I "kinda" know these languages (can read):
-    **JavaScript, Python, XML, JSON**
+    **JavaScript, Kotlin, Visual Basic .NET, JSON**
  - 🔨 Here are some tools that I use:
     <br>
     Dev Tools: **Visual Studio, VS Code, Android Studio, Eclipse, IntelliJ**
