@@ -4,7 +4,7 @@
  <img align="center" width="420px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
 </p>
 
-My name is <b>Ethan Calvin Kim</b>. Explore my pinned repositories under this README!
+Hellyo! My name is <b>Ethan Calvin Kim</b>, and feel free to explore my pinned repositories under this README!
 
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
