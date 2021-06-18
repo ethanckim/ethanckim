@@ -4,7 +4,7 @@
  <img align="center" width="420px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
 </p>
 
-Heyo, my name is <b>Ethan</b>! Feel free to explore my repositories!
+Hello, my name is <b>Ethan</b>! Feel free to explore my repositories!
 
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
