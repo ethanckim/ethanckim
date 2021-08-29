@@ -1,4 +1,4 @@
-## You found my GitHub Profile! 👀
+## You found my GitHub Profile!
 
 <p align="center">
  <img align="center" width="420px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
