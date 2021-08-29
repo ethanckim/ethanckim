@@ -4,33 +4,34 @@
  <img align="center" width="420px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
 </p>
 
-Hello, my name is <b>Ethan</b>! Feel free to explore my repositories!
+Hello, my name is <b>Ethan</b>! I'm a robotics nerd who likes turtles.
 
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
  - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a>
+ - 🔧 Completed a Co-Op at a <a href="https://www.maparobo.com">startup company</a>, tinkering with a prototype snowblower.
  - 🤖 Programmed a robot so it does something like this 👉👉
- - 🐢 I like turtles
 
 ### 💬 Languages I use
 
- - 🧡 I love these languages:
-    **Java, C++, HTML/CSS, XML**
- - 💭 I am learning the following:
-    **Python**
- - 🤔 I "kinda" know these languages (can read):
+ - 🧡 I know these a lot:
+    **Java, C/C++, Python, HTML/CSS, XML**
+ - 💭 I "can" work with these:
     **JavaScript, Kotlin, Visual Basic .NET, JSON**
  - 🔨 Here are some tools that I use:
     <br>
-    Dev Tools: **Visual Studio, VS Code, Android Studio, Eclipse, IntelliJ**
+    Technology: **Arduino, ROS (Robot Operating System), Linux, Android SDK**
     <br>
     Version Control: **Git, SVN**
     <br>
-    Build Tools: **Ant, Gradle**
+    Build Tools: **Cmake, Gradle**
+    <br>
+    Some Designing: **SolidWorks, AutoCAD, Electrical Wiring & Schematics**
  
 ### 📫 Find me online!
 <p align="center">
  <a href=https://www.linkedin.com/in/ethan-calvin-kim/>
+ 
   <img align="left" alt="Ethan's LinkedIn" width=22px src=https://simpleicons.org/icons/linkedin.svg>
  </a>
 
