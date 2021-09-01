@@ -30,7 +30,7 @@ Hello, my name is <b>Ethan</b>! I'm a robotics nerd who likes turtles.
  
 ### 📫 Find me online!
 <p align="center">
- <a href=https://www.linkedin.com/in/ethan-calvin-kim/>
+ <a href=https://www.linkedin.com/in/ethanckim/>
  
   <img align="left" alt="Ethan's LinkedIn" width=22px src=https://simpleicons.org/icons/linkedin.svg>
  </a>
