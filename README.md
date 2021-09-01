@@ -28,28 +28,12 @@ Hello, my name is <b>Ethan</b>! I'm a robotics nerd who likes turtles.
     <br>
     Some Designing: **SolidWorks, AutoCAD, Electrical Wiring & Schematics**
  
-### 📫 Find me online!
+### 📫 Find me on LinkedIn!
 <p align="center">
  <a href=https://www.linkedin.com/in/ethanckim/>
- 
   <img align="left" alt="Ethan's LinkedIn" width=22px src=https://simpleicons.org/icons/linkedin.svg>
  </a>
 
- <a href=https://github.com/ethanckim>
-  <img align="left" alt="Ethan's Github" width=22px src=https://simpleicons.org/icons/github.svg>
- </a>
-
- <a href=https://www.facebook.com/ethanc.kim>
-  <img align="left" alt="Ethan's Facebook" width=22px src=https://simpleicons.org/icons/facebook.svg>
- </a>
-
- <a href=https://twitter.com/ethanc_kim>
-  <img align="left" alt="Ethan's Twitter" width=22px src=https://simpleicons.org/icons/twitter.svg>
- </a>
-
- <a href=https://www.instagram.com/ethanc_kim/>
-  <img align="left" alt="Ethan's Instagram" width=22px src=https://simpleicons.org/icons/instagram.svg>
- </a>
 </p>
 <br>
 <br>
