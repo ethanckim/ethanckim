@@ -29,11 +29,11 @@ Hello, my name is <b>Ethan</b>! I'm a robotics nerd who likes turtles.
     Some Designing: **SolidWorks, AutoCAD, Electrical Wiring & Schematics**
  
 ### 📫 Find me on LinkedIn!
-<p align="center">
+<p align="left">
  <a href=https://www.linkedin.com/in/ethanckim/>
   <img align="left" alt="Ethan's LinkedIn" width=22px src=https://simpleicons.org/icons/linkedin.svg>
  </a>
-
+https://www.linkedin.com/in/ethanckim
 </p>
 <br>
 <br>
