@@ -9,7 +9,7 @@ Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes t
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
  - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a>
- - 🔧 Completed a Co-Op at a <a href="https://www.maparobo.com">startup company</a>, tinkering with a prototype snowblower.
+ - 🔧 Completed a Co-Op at a <a href="https://www.maparobo.com">startup company</a>, tinkering with a landscaping robot.
  - 🤖 Programmed a robot so it does something like this 👉👉
 
 ### 💬 Languages I use
