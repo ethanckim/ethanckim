@@ -1,8 +1,10 @@
 ## You found my GitHub Profile!
 
+<!--
 <p align="center">
  <img align="center" width="420px" src="https://github.com/ethanckim/ethanckim/blob/master/media/turtle.png" />
-</p>
+</p> 
+-->
 
 Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes turtles.
 
