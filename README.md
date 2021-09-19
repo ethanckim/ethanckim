@@ -30,6 +30,7 @@ Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes t
     <br>
     Some Designing: **SolidWorks, AutoCAD, Electrical Wiring & Schematics**
  
+<!--
 ### 📫 Find me on LinkedIn!
 <p align="left">
  <a href=https://www.linkedin.com/in/ethanckim/>
@@ -39,6 +40,7 @@ https://www.linkedin.com/in/ethanckim
 </p>
 <br>
 <br>
+-->
 
 <!--
 [![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethanckim&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
