@@ -17,7 +17,7 @@ Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes t
 ### 💬 Languages I use
 
  - 🖥 I know these a lot (Proficient):
-    **Java, C/C++, Python, HTML/CSS, XML**
+    **C/C++, Python, Java, HTML/CSS, XML**
  - 💭 I kinda know these (Familiar):
     **JavaScript, Kotlin, Visual Basic .NET, JSON**
  - 🔨 Here are some tools that I use:
