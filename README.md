@@ -11,18 +11,18 @@ Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes t
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
  - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a>
- - 🔧 Completed an internship at <a href="https://www.maparobo.com">Maparobo Inc.</a>, tinkering with an autonomous landscaping robot.
+ - 🔧 Completed an internship at <a href="https://clearpathrobotics.com/">Clearpath Robotics</a> and Maparobo Inc., tinkering with autonomous landscaping robots.
  - 🤖 Programmed a robot so it does something like this 👉👉
 
 ### 💬 Languages I use
 
  - 🖥 I know these a lot (Proficient):
-    **C/C++, Python, Java, HTML/CSS, XML**
+    **C/C++, Python, Java**
  - 💭 I kinda know these (Familiar):
-    **JavaScript, Kotlin, Visual Basic .NET, JSON**
- - 🔨 Here are some tools that I use:
+    **Assembly, JavaScript, Kotlin, Visual Basic .NET, JSON, XML, HTML/CSS**
+ - 🔨 Here are some tools I can use:
     <br>
-    Technology: **Arduino, ROS (Robot Operating System), Linux, Android SDK**
+    Technology: **Arduino, ROS (Robot Operating System), Linux, Docker, Android SDK, Yocto, BuildRoot, Robot Framework**
     <br>
     Version Control: **Git, SVN**
     <br>
