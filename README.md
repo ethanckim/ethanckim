@@ -11,7 +11,7 @@ Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes t
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
  - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a>
- - 🔧 Completed an internship at <a href="https://clearpathrobotics.com/">Clearpath Robotics</a> and Maparobo Inc., tinkering with autonomous landscaping robots.
+ - 💻 Previous internships at Clearpath Robotics, Wind River Systems, Telus, and Maparobo Inc.
  - 🤖 Programmed a robot so it does something like this 👉👉
 
 ### 💬 Languages I use
