@@ -17,14 +17,14 @@ Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes t
 ### 💬 Languages I use
 
  - 🖥 I know these a lot (Proficient):
-    **C/C++, Python, Java**
+    **C/C++/C#, Python, Java**
  - 💭 I kinda know these (Familiar):
-    **Assembly, JavaScript, Kotlin, Visual Basic .NET, JSON, XML, HTML/CSS**
+    **Assembly, JavaScript, Kotlin, Visual Basic, JSON, XML, HTML/CSS**
  - 🔨 Here are some tools I can use:
     <br>
-    Technology: **Arduino, ROS (Robot Operating System), Linux, Docker, Android SDK, Yocto, BuildRoot, Robot Framework**
+    Technology: **Arduino, ROS (Robot Operating System), Linux, Docker, .NET, Android SDK, Yocto, BuildRoot, Robot Framework**
     <br>
-    Version Control: **Git, SVN**
+    Version Control: **Git**
     <br>
     Build Tools: **Cmake, Gradle**
     <br>
