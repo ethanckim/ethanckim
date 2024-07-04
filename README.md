@@ -16,10 +16,10 @@ Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes t
 
 ### 💬 Languages I use
 
- - 🖥 I know these a lot (Proficient):
+ - 🖥 I use these a lot (Proficient):
     **C/C++/C#, Python, Java**
  - 💭 I kinda know these (Familiar):
-    **Assembly, JavaScript, Kotlin, Visual Basic, JSON, XML, HTML/CSS**
+    **Assembly, JavaScript, Kotlin, Visual Basic, JSON, XML, HTML/CSS, SQL**
  - 🔨 Here are some tools I can use:
     <br>
     Technology: **Arduino, ROS (Robot Operating System), Linux, Docker, .NET, Android SDK, Yocto, BuildRoot, Robot Framework**
