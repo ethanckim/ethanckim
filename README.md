@@ -11,15 +11,15 @@ Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes t
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
  - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a>
- - 💻 Previous internships at Clearpath Robotics, Wind River Systems, Telus, and Maparobo Inc.
+ - 💻 Previous internships at Kardium, Clearpath Robotics, Wind River Systems, and Telus.
  - 🤖 Programmed a robot so it does something like this 👉👉
 
 ### 💬 Languages I use
 
  - 🖥 I use these a lot (Proficient):
-    **C/C++/C#, Python, Java**
+    **C/C++/C#, Python**
  - 💭 I kinda know these (Familiar):
-    **Assembly, JavaScript, Kotlin, Visual Basic, JSON, XML, HTML/CSS, SQL**
+    **Assembly, Java, JavaScript, Kotlin, Visual Basic, JSON, XML, HTML/CSS, SQL**
  - 🔨 Here are some tools I can use:
     <br>
     Technology: **Arduino, ROS (Robot Operating System), Linux, Docker, .NET, Android SDK, Yocto, BuildRoot, Robot Framework**
