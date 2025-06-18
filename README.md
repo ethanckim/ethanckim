@@ -6,29 +6,29 @@
 </p> 
 -->
 
-Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly likes turtles.
+Hello, my name is <b>Ethan</b>! I'm a robotics hobbyist who particularly loves turtles.
 
 <img align="right" alt="GIF" src="https://github.com/ethanckim/ethanckim/blob/master/media/robot.gif" />
 
- - 🎓 Currently Studying <a href="https://uwaterloo.ca/mechanical-mechatronics-engineering/">Mechatronics Enginneering at the University of Waterloo</a>
- - 💻 Previous internships at Kardium, Clearpath Robotics, Wind River Systems, and Telus.
+ - 🎓 Bachelor of Applied Science: Mechatronics Engineering @ University of Waterloo
+ - 💻 Previous internships (co-ops) at Kardium, Clearpath Robotics, Wind River Systems, and Telus.
  - 🤖 Programmed a robot so it does something like this 👉👉
 
 ### 💬 Languages I use
 
  - 🖥 I use these a lot (Proficient):
-    **C/C++/C#, Python**
+    **C/C++/C#, Python, MATLAB**
  - 💭 I kinda know these (Familiar):
-    **Assembly, Java, JavaScript, Kotlin, Visual Basic, JSON, XML, HTML/CSS, SQL**
+    **Assembly, Java, JSON, XML, SQL, HTML/CSS, Visual Basic**
  - 🔨 Here are some tools I can use:
     <br>
-    Technology: **Arduino, ROS (Robot Operating System), Linux, Docker, .NET, Android SDK, Yocto, BuildRoot, Robot Framework**
+    Technology: **Arduino, ROS1/2 (Robot Operating System), Linux, Docker, .NET, Android SDK, Yocto, BuildRoot, Robot Framework, Siemens PLC**
     <br>
     Version Control: **Git**
     <br>
     Build Tools: **Cmake, Gradle**
     <br>
-    Some Designing: **SolidWorks, AutoCAD, Electrical Wiring & Schematics**
+    Some Designing: **SolidWorks, AutoCAD, Altium, Electrical Wiring & Schematics, GD&T, SCADA Systems**
  
 <!--
 ### 📫 Find me on LinkedIn!
